@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Jc18JC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+JC18JC)](https://git.io/typing-svg)
 
 😼 hello. I am 김재철, a **Spring** and **NestJS** backend developer.
 
